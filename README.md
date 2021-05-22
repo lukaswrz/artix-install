@@ -5,6 +5,9 @@ with [runit](https://wiki.artixlinux.org/Main/Runit).
 
 ## Usage
 
+The settings in the graphical menu from the Artix ISO will be used and applied
+to the new installation, so make sure that you entered them correctly.
+
 ```bash
 curl -O https://raw.githubusercontent.com/lukaswrz/artix-install/main/artix-install.bash
 bash artix-install.bash
